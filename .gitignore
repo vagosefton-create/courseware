@@ -1,0 +1,14 @@
+# 操作系统 / 编辑器临时文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+
+# Office 临时文件（Word / PPT / Excel 编辑时生成的锁文件）
+~$*
+*.tmp
+
+# 构建缓存
+__pycache__/
+*.pyc
